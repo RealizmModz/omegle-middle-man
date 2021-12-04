@@ -1,0 +1,13 @@
+{
+  "name": "OmegleMiddleMan",
+  "description": "A test omegle project",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "faye": "*",
+    "qs": "*",
+    "request": "*",
+    "socket.io": "*"
+  }
+}
